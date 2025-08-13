@@ -1,3 +1,6 @@
 welcome back gooner!
 arent you looking hot today
 2 dråper vann!
+32.154.21.12 <-- din offentlige IP
+10.69.227.5 <-- din ProxMox-server
+https://www.youtube.com/@2ITAKongsberg
