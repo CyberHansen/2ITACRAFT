@@ -1,6 +1,7 @@
 # 2ITACRAFT 🎨🎵
 
 **Release:** Beta
+
 **Version:** Minecraft 1.21.1  
 **Type:** Resource Pack (Textures + Sounds + Music)  
 **Status:** 100% Shitpost Certified™  
