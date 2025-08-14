@@ -6,17 +6,24 @@
                 "discipline": "Hawk To Systems Leadership",
                 "titles": [
                     {
-                        "title": "Studio Head of Hawk to systems",
+                        "title": "mostly sound dev",
                         "names": [
-                            "Fredrik Pettersen"
+                            "Fredrik"
                         ]
                     },
                     {
-                        "title": "Chief Operating Officer of Hawk to systems",
+                        "title": "a mix of sound dev and gui dev",
                         "names": [
                             "Mathias"
                         ]
+                    },
+                    {
+                        "title": "a mix of sound dev and gui dev",
+                        "names": [
+                            "Matvey"
+                        ]
                     }
+
                 ]
             }
         ]
