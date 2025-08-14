@@ -1,5 +1,6 @@
 # 2ITACRAFT 🎨🎵
 
+***Release:*** Beta
 **Version:** Minecraft 1.21.1  
 **Type:** Resource Pack (Textures + Sounds + Music)  
 **Status:** 100% Shitpost Certified™  
@@ -10,7 +11,7 @@
 
 2ITACRAFT is not your average Minecraft resource pack.  
 It's an *experience* you never asked for but won't be able to forget.  
-We've taken Minecraft's wholesome charm and replaced it with pure, chaotic energy.
+We've taken Minecraft's wholesome charm, thrown it out the window, and reworked it from the ground up.
 
 - **Textures?** Cursed.  
 - **Sounds?** Even worse.  
