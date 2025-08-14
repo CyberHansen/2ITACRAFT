@@ -1,6 +1,6 @@
 # 2ITACRAFT 🎨🎵
 
-***Release:*** Beta
+**Release:** Beta
 **Version:** Minecraft 1.21.1  
 **Type:** Resource Pack (Textures + Sounds + Music)  
 **Status:** 100% Shitpost Certified™  
@@ -23,8 +23,8 @@ If you thought you were safe from weirdness in a block game, think again.
 
 ## ✨ Features
 
-- 🖌 **Cursed Textures** – Every block and item has been given the "2ITA touch" (interpret that however you want).
-- 🔊 **Distorted Sounds** – Doors, mobs, tools… nothing sounds normal anymore.
+- 🖌 **Cursed Textures** – Some items has been given the "2ITA touch", with more to come (interpret that however you want).
+- 🔊 **Distorted Sounds** – mobs, environments, flight... nothing sounds normal anymore.
 - 🎶 **Music Overhaul** – In-game music replaced with questionable choices.
 - 🐔 **Unholy Mobs** – Chicken noises may never be the same.
 
@@ -41,6 +41,8 @@ If you thought you were safe from weirdness in a block game, think again.
 4. Go to **Options > Resource Packs** and activate **2ITACRAFT**.
 5. Prepare yourself mentally.
 
+(You may need to unzip it. If you do, make sure to place the content in the root folder. "2ITACRAFT/pack.mcmeta..." not "2ITACRAFT/2ITACRAFT/pack.mcmeta...".
+
 ---
 
 ## ⚠️ Disclaimer
@@ -54,7 +56,7 @@ We take no responsibility for emotional damage.
 
 ## 📢 Credits
 
-Created by: **Fredrik**  
+Created by: **2ITA & Co**  
 Special thanks to: Anyone brave enough to install this.
 
 ---
