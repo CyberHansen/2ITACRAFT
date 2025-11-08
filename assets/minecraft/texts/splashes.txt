@@ -5,3 +5,6 @@ arent you looking hot today
 10.69.227.5 <-- din ProxMox-server
 https://www.youtube.com/@2ITAKongsberg
 Stem FrP!
+Stem Høyre!
+Stem Ap!
+192.168.10.52 <-- din lokale IP
